@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="50px" height="50px">
+  <!-- Left Angle Bracket -->
+  <path fill="none" stroke="#FFA116" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M80,64 L48,128 L80,192" />
+  <!-- Right Angle Bracket -->
+  <path fill="none" stroke="#FFA116" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M176,64 L208,128 L176,192" />
+  <!-- Inclined Slash with Greater Height -->
+  <path fill="none" stroke="#FFA116" stroke-width="16" stroke-linecap="round" d="M120,160 L150,40" />
+</svg>
