@@ -58,7 +58,7 @@ function Hero() {
         <p className={styles.description}>
         I am a skilled MERN stack developer with experience in creating secure, scalable web applications using MongoDB, Express, React, and Node.js. Proficient in JWT, bcrypt, RESTful APIs, and API integration, I build responsive, user-focused applications with efficient data handling.
         </p>
-        <a href={CV} download>
+        <a href="https://drive.google.com/drive/u/7/folders/1XibTqmmqySTrqt__wY5xvmjlaEYh3U1p">
           <button className="hover">Resume</button>
         </a>
       </div>
